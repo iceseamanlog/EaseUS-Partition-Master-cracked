@@ -21,4 +21,4 @@ EaseUS Partition Master Edition. resize, merge, clone, and format partitions on 
 
 
 TAGS
-easeus-partition-master, disk-management, easeus, merge-partition, partition-manager                      
+easeus-partition-master, disk-management, easeus, merge-partition, partition-manager                       
